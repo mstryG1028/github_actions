@@ -3,7 +3,7 @@ name: Deploy NodeJs Application to AWS take2
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   deploy:
